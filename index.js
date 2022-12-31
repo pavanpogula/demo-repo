@@ -1,1 +1,4 @@
-console.log("hello user!!");
+
+
+const msg ="Hello user!!!"
+alert(msg);
