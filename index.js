@@ -1,4 +1,6 @@
 
 
 const msg ="Hello user!!!"
-alert(msg);
+// alert(msg);
+
+const greeting ="hi";
